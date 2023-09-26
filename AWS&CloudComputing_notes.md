@@ -6,7 +6,8 @@
 - Eliminates need to have physical storage
 
 Note: Diagram below shows a visual representation of the cloud
-![](C:\Users\wafam\Downloads\cloud_computing.png)
+
+!![](C:\Users\wafam\Downloads\cloud_computing.png)
 
 ## History and Timeline of Cloud Computing 
 
@@ -15,8 +16,12 @@ Note: Diagram below shows a visual representation of the cloud
 3. 1970's White House installed first computers 
 4. 1990's World Wide Web launched, 1million computers connected to internet 
 5. 1996 - Cloud in internal document Compaq
-6. 2000's Amazon Web Services (AWS) launches public cloud 
+6. 2000's Amazon Web Services (AWS) launches public cloud
 
+The diagrams below show the timeline of cloud computing 
+![](C:\Users\wafam\Downloads\computing_timeline.png)
+
+Timeline below includes the birth of WWW (world wide web)
 ![](C:\Users\wafam\Downloads\cloud_computing_timeline.png)
 
 ##  What can you do with Cloud computing 
@@ -44,7 +49,7 @@ Note: Diagram below shows a visual representation of the cloud
 
 ## Advantages of Cloud Computing 
 1. Disaster Recovery - businesses can recover quickly
-2. Flexibility - Access the data anywhere
+   2. Flexibility - Access the data anywhere
 3. Mobility - Businesses can work anywhere, location does not matter
 3. Low cost - savin businesses money
 4. Scalability - scale with demand 
